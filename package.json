@@ -1,0 +1,20 @@
+{
+  "name": "jsbackend",
+  "version": "1.0.0",
+  "description": "a basic backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "basic",
+    "js",
+    "backend"
+  ],
+  "author": "bijay",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.8",
+    "express": "^5.3.0"
+  }
+}
